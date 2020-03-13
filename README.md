@@ -6,3 +6,5 @@
    * The above is a tutorial about all the pieces we need to make our project
 * https://www.shadertoy.com/view/4tcGDr
    * This is a great example to play with to figure out how raymarching etc. works
+* https://www.youtube.com/watch?v=PGtv-dBi2wE
+   * Video about implementing ray marching + lighting + shadows
